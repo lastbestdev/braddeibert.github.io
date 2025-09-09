@@ -1,4 +1,5 @@
-# braddeibert.github.io
+# braddeibert.github.io - ARCHIVED 9/9/25
+### this repo has been archived. it contains old versions of my personal site from when my GH handle was @braddeibert 
 
 Welcome to the source code repository for my personal website, currently hosted on GH Pages. It will be updated sporatically, often when I catch a wave of creative inspiration.
 
